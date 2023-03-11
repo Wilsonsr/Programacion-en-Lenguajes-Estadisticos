@@ -1,1 +1,4 @@
-# Programaci-n-en-Lenguajes-Estadisticos
+# Programación-en-Lenguajes-Estadisticos
+
+- Introducción
+- Pandas
